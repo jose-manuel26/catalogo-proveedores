@@ -1,0 +1,72 @@
+
+{
+  "empresa": "Comercializadora Los Sultanes S.A. de C.V.",
+  "descripcion": "Catálogo de proveedores (datos ficticios) · Práctica 003 · Unidad II · Fundamentos de IA · UTSH",
+  "actualizado": "2026-10-29",
+  "proveedores": [
+    {
+      "claveProveedor": "PRV01",
+      "proveedor": "Abarrotes y Cuidado Personal Huasteca",
+      "correo": "compras@huasteca.example",
+      "diasEntrega": 2,
+      "categorias": [
+        "groceries",
+        "beauty",
+        "fragrances",
+        "skin-care"
+      ]
+    },
+    {
+      "claveProveedor": "PRV02",
+      "proveedor": "Hogar y Cocina Pachuca",
+      "correo": "ventas@hogarpachuca.example",
+      "diasEntrega": 5,
+      "categorias": [
+        "furniture",
+        "home-decoration",
+        "kitchen-accessories"
+      ]
+    },
+    {
+      "claveProveedor": "PRV03",
+      "proveedor": "TecnoSierra Distribuciones",
+      "correo": "mayoreo@tecnosierra.example",
+      "diasEntrega": 7,
+      "categorias": [
+        "laptops",
+        "smartphones",
+        "tablets",
+        "mobile-accessories"
+      ]
+    },
+    {
+      "claveProveedor": "PRV04",
+      "proveedor": "Moda y Accesorios Tulancingo",
+      "correo": "surtido@modatulancingo.example",
+      "diasEntrega": 4,
+      "categorias": [
+        "mens-shirts",
+        "mens-shoes",
+        "mens-watches",
+        "womens-bags",
+        "womens-dresses",
+        "womens-jewellery",
+        "womens-shoes",
+        "womens-watches",
+        "tops",
+        "sunglasses"
+      ]
+    },
+    {
+      "claveProveedor": "PRV05",
+      "proveedor": "Deportes y Motor Sierra",
+      "correo": "pedidos@deportesmotor.example",
+      "diasEntrega": 10,
+      "categorias": [
+        "sports-accessories",
+        "motorcycle",
+        "vehicle"
+      ]
+    }
+  ]
+}
